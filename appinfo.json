@@ -1,0 +1,71 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "macw713@gmail.com",
+    "longName": "FREEDOM",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/flag10.png",
+                "name": "FLAG10",
+                "type": "png"
+            },
+            {
+                "file": "images/flag8.png",
+                "name": "FLAG8",
+                "type": "png"
+            },
+            {
+                "file": "images/flag6.png",
+                "name": "FLAG6",
+                "type": "png"
+            },
+            {
+                "file": "images/flag4.png",
+                "name": "FLAG4",
+                "type": "png"
+            },
+            {
+                "file": "images/flag2.png",
+                "name": "FLAG2",
+                "type": "png"
+            },
+            {
+                "file": "images/flag5.png",
+                "name": "FLAG5",
+                "type": "png"
+            },
+            {
+                "file": "images/flag9.png",
+                "name": "FLAG9",
+                "type": "png"
+            },
+            {
+                "file": "images/flag7.png",
+                "name": "FLAG7",
+                "type": "png"
+            },
+            {
+                "file": "images/flag3.png",
+                "name": "FLAG3",
+                "type": "png"
+            },
+            {
+                "file": "images/flag1.png",
+                "name": "FLAG1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "FREEDOM",
+    "uuid": "05a18bca-86b3-439d-a2cd-22945ad48843",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
